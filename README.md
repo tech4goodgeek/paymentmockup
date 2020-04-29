@@ -30,7 +30,7 @@ Visa
 Use the above with any CVV, and any future expiry date. On usage of this card, you will be prompted to succeed or fail this payment on the mocked bank page.
 
 
-2. [Try Recurring Payment](https://github.com/tech4goodgeek/paymentmockup/edit/master/README.md)
+2. [Try Recurring Payment](https://rzp.io/i/03nymp8)
 
 Test Card Details:
 Mastercard
