@@ -5,7 +5,7 @@
 
 1. [Try One Time Payment](https://rzp.io/l/KAy6vQ8)
 
-<div class="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_EkCZhga2tnfyV2/view" data-text="Donatore Now" data-color="#528FF0" data-size="medium">
+<div class="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_EkCZhga2tnfyV2/view" data-text="Donate Now" data-color="#528FF0" data-size="small">
   <script>
     (function(){
       var d=document; var x=!d.getElementById('razorpay-embed-btn-js')
@@ -14,6 +14,7 @@
       rzp && rzp.init && rzp.init()}})();
   </script>
 </div>
+    
     
 Test Card Details:
 
