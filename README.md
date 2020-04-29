@@ -3,8 +3,18 @@
 
 ### Mocks of some types of Payments using Razorpay
 
-1. [Try One Time Payment](https://github.com/tech4goodgeek/paymentmockup/edit/master/README.md)
+1. [Try One Time Payment](https://rzp.io/l/KAy6vQ8)
 
+<div class="razorpay-embed-btn" data-url="https://pages.razorpay.com/pl_EkCZhga2tnfyV2/view" data-text="Donatore Now" data-color="#528FF0" data-size="medium">
+  <script>
+    (function(){
+      var d=document; var x=!d.getElementById('razorpay-embed-btn-js')
+      if(x){ var s=d.createElement('script'); s.defer=!0;s.id='razorpay-embed-btn-js';
+      s.src='https://cdn.razorpay.com/static/embed_btn/bundle.js';d.body.appendChild(s);} else{var rzp=window['__rzp__'];
+      rzp && rzp.init && rzp.init()}})();
+  </script>
+</div>
+    
 Test Card Details:
 
 Card Numbers you can use
