@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Welcome to Mock Pages which we will use for Tech Trainings sometimes
 
 You can use the [editor on GitHub](https://github.com/tech4goodgeek/paymentmockup/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Mocks of some types of Payments using Razorpay
 
-```markdown
-Syntax highlighted code block
+1. [Try One Time Payment](https://github.com/tech4goodgeek/paymentmockup/edit/master/README.md)
 
-# Header 1
-## Header 2
-### Header 3
+Test Card Details:
 
-- Bulleted
-- List
+Card Numbers you can use
 
-1. Numbered
-2. List
+Mastercard
+5104 0155 5555 5558
+5104 0600 0000 0008
 
-**Bold** and _Italic_ and `Code` text
+Visa
+4111 1111 1111 1111
 
-[Link](url) and ![Image](src)
-```
+Use the above with any CVV, and any future expiry date. On usage of this card, you will be prompted to succeed or fail this payment on the mocked bank page.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+2. [Try Recurring Payment](https://github.com/tech4goodgeek/paymentmockup/edit/master/README.md)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tech4goodgeek/paymentmockup/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Test Card Details:
+Mastercard
+5104015555555558
 
-### Support or Contact
+Use the above with any CVV, and any future expiry date. On usage of this card, you will be prompted to succeed or fail this payment on the mocked bank page.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
